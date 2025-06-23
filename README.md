@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BF72C&multiline=true&width=435&lines=Hello+Friend%2C+I'm+Panha+Sovan!;I'm+data+science+student." alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Panha+Sovan;Data-Science+Student" alt="Typing SVG" />
+</div>
 
 <br/>
 
