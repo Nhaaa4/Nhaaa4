@@ -1,10 +1,12 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Panha+Sovan;Data-Science+Student" alt="Typing SVG" />
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Languages & Tools
 
@@ -30,15 +32,15 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=nhaaa4&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhaaa4&layout=compact&theme=default&hide_border=false" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=nhaaa4&show_icons=true&theme=highcontrast&hide_border=false" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhaaa4&layout=compact&theme=highcontrast&hide_border=false" alt="Top Languages" /></td>
     </tr>
   </table>
 </div>
@@ -47,7 +49,24 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nhaaa4&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Statistics
+
+<div align="center">
+  <a href="https://github.com/nhaaa4"></a>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhaaa4&theme=highcontrast" height="180em" />
+  <div>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhaaa4&theme=highcontrast" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhaaa4&theme=highcontrast" height="180em" />
+  </div>
+  <div>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhaaa4&theme=highcontrast" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhaaa4&theme=highcontrast" height="180em" />
+  </div>
+</div>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚡ Bonus
 
