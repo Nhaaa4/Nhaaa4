@@ -123,7 +123,7 @@ me = DataScientist()
 
 <div align="left">
   <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nhaaa4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Nhaaa4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nhaaa4&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
 </div>
 
 <div align="left">
