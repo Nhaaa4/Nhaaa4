@@ -145,54 +145,6 @@ me = DataScientist()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Current Focus
-
-<div align="left">
-
-```mermaid
-mindmap
-  root((Panha Sovan Data Scientist))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Deep Learning
-      Neural Networks
-      Model Optimization
-    Data Engineering
-      ETL Pipelines
-      Apache Hadoop
-      Apache Spark
-      Real-Time Processing
-      Data Warehousing
-    Statistical Analysis
-      Hypothesis Testing
-      A/B Testing
-      Regression Analysis
-      Time Series
-      Predictive Modeling
-    Data Visualization
-      Tableau
-      Power BI
-      Python Libraries
-      Dashboard Design
-      Storytelling
-    Big Data
-      Distributed Computing
-      Apache Kafka
-      Data Lakes
-      Stream Processing
-    MLOps
-      Model Deployment
-      MLflow
-      Docker
-      CI/CD Pipelines
-      Model Monitoring
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Connect With Me
 
 <div align="center">
