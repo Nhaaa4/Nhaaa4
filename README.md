@@ -119,24 +119,6 @@ me = DataScientist()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Statistics
-
-<div align="left">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nhaaa4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nhaaa4&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
-</div>
-
-<div align="left">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nhaaa4&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=CADT&card_width=400" alt="" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nhaaa4&theme=tokyonight" alt="Repos Per Language" />
-</div>
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nhaaa4&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Contribution Graph
 
 <div align="center">
@@ -150,7 +132,7 @@ me = DataScientist()
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sovanpanha-chheang-17473b32a)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhaaa4)
+[![GitHub](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/nhaaZzz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panhasovan51@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com) -->
 
